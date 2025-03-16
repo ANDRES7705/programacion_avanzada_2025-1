@@ -24,7 +24,7 @@ else:
 
 
  NUMERO2
-
+   
  costodelic= 0
 totall = 0
 pr = 0
